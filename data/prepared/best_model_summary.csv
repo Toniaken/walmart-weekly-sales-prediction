@@ -1,0 +1,2 @@
+selected_model,mae,rmse,r2_score,overall_rank_score
+Linear Regression,69989.55,101451.25,0.9638,3

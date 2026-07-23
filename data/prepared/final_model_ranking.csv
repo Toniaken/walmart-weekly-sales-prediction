@@ -1,0 +1,5 @@
+final_position,model,mae,rmse,r2_score,mae_rank,rmse_rank,r2_rank,overall_rank_score
+1,Linear Regression,69989.55,101451.25,0.9638,1,1,1,3
+2,Random Forest,80398.99,116209.23,0.9526,2,2,2,6
+3,Decision Tree,138187.23,197760.41,0.8626,3,3,3,9
+4,Gradient Boosting,176368.38,201032.57,0.8581,4,4,4,12
